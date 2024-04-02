@@ -1,0 +1,36 @@
+{
+    "featuredCourses": [
+      {
+        "name": "React",
+        "description": "Learn to build interactive user interfaces with React.js, a powerful JavaScript library.",
+        "instructor": "John Doe"
+      },
+      {
+        "name": "JavaScript",
+        "description": "Master the fundamentals of JavaScript programming and enhance your web development skills.",
+        "instructor": "Jane Smith"
+      },
+      {
+        "name": "Machine Learning",
+        "description": "Explore the exciting world of machine learning and artificial intelligence.",
+        "instructor": "Alex Johnson"
+      },
+      {
+        "name": "Node.js",
+        "description": "Build scalable network applications using the JavaScript runtime, Node.js.",
+        "instructor": "Mark Williams"
+      },
+      {
+        "name": "Python for Data Science",
+        "description": "Unlock the power of Python for data analysis, visualization, and machine learning.",
+        "instructor": "Emily Davis"
+      },
+      {
+        "name": "Web Development with Django",
+        "description": "Create robust web applications using Django, a high-level Python web framework.",
+        "instructor": "Chris Thompson"
+      }
+    
+    ]
+  }
+  

@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "images" :"https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "age": 25,
+      "isFeatured": true
+    },
+    {
+      "images" : "https://images.pexels.com/photos/868113/pexels-photo-868113.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "age": 30,
+      "isFeatured": false
+    },
+    {
+      "images": "https://images.pexels.com/photos/775358/pexels-photo-775358.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bob@example.com",
+      "age": 28,
+      "isFeatured": true
+    },
+    {
+      "images" : "https://images.pexels.com/photos/868113/pexels-photo-868113.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      
+      "id": 4,
+      "name": "Alice Williams",
+      "email": "alice@example.com",
+      "age": 22,
+      "isFeatured": false
+    },
+    {
+      "images" : "https://images.pexels.com/photos/868113/pexels-photo-868113.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": 5,
+      "name": "Charlie Brown",
+      "email": "charlie@example.com",
+      "age": 35,
+      "isFeatured": true
+    },
+    {
+      "images" : "https://images.pexels.com/photos/868113/pexels-photo-868113.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      
+      "id": 6,
+      "name": "David Smith",
+      "email": "david@example.com",
+      "age": 32,
+      "isFeatured": false
+    },
+    {
+      "images" : "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": 7,
+      "name": "Eva Johnson",
+      "email": "eva@example.com",
+      "age": 29,
+      "isFeatured": true
+    },
+    {
+      "images" : "https://images.pexels.com/photos/1270076/pexels-photo-1270076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": 7,
+      "name": "Josef",
+      "email": "josef@example.com",
+      "age": 39,
+      "isFeatured": true
+    }
+  ]
+}
